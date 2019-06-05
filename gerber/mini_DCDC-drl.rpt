@@ -1,0 +1,22 @@
+Drill report for /home/werwolf/Projects/Other/mini_DCDC/mini_DCDC.kicad_pcb
+Created on Ср 05 июн 2019 16:52:25
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'mini_DCDC-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  1,00mm  0,039"  (5 holes)
+
+    Total plated holes count 5
+
+
+Drill file 'mini_DCDC-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
